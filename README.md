@@ -50,10 +50,10 @@ The environment continues to evolve as additional virtual machines, security too
 
 - PCI DSS Compliance Project *(Governance, Risk & Compliance)*
 - Vulnerability Management Program *(Vulnerability Lifecycle Management)*
+- Modernizing the Security Telemetry Pipeline *(Security Telemetry Engineering)*
+- Detection Engineering *(Security Monitoring and Threat Detection)*
 
 ### Security Projects (In Progress)
-
-- Detection Engineering *(Security Monitoring & Threat Detection)*
 
 ## Skills Demonstrated
 
