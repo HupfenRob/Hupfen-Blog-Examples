@@ -39,25 +39,24 @@ The environment continues to evolve as additional virtual machines, security too
 ## Portfolio Highlights
 
 ### Completed Missions (upcoming missions available at hupfendynamics.com)
-- Mission 1 -	Installing a Hypervisor
-- Mission 2.0 -	Building a Weak Windows VM
-- Mission 2.1 -	Hardening the Weak Windows VM
-- Mission 2.5 -	Building a Strong Windows VM
-- Mission 2.6 -	Strengthening the Windows VM
-- Mission 3 -	Building a Linux VM Server
+- [Mission 1 -	Installing a Hypervisor](missions/mission-01-hypervisor-setup/)
+- [Mission 2.0 -	Building a Weak Windows VM](missions/mission-02-0-windows-vm/)
+- [Mission 2.5 -	Building a Strong Windows VM](missions/mission-02-5-strong-windows-vm/)
+- [Mission 3 -	Building a Linux VM Server](missions/mission-03-linux-server/)
+- [Mission 4 -   From Building to Automating](missions/mission-04-from-building-to-automating/)
 
 ### Security Projects (Completed)
 
-- PCI DSS Compliance Project *(Governance, Risk & Compliance)*
-- Vulnerability Management Program *(Vulnerability Lifecycle Management)*
-- Modernizing the Security Telemetry Pipeline *(Security Telemetry Engineering)*
-- Detection Engineering *(Security Monitoring and Threat Detection)*
+- [PCI DSS Compliance Project](projects/pci-dss-compliance/) *(Governance, Risk & Compliance)*
+- [Vulnerability Management Program](projects/vulnerability-management/) *(Vulnerability Lifecycle Management)*
+- [Modernizing the Security Telemetry Pipeline](projects/modernizing-security-telemetry-pipeline/) *(Security Telemetry Engineering)*
+- [Detection Engineering](projects/detection-engineering/) *(Security Monitoring and Threat Detection)*
 
 ### Security Projects (In Progress)
 
 ## Skills Demonstrated
 
-Throughout these projects, I have applied and documented experience with:
+As you continue through these labs, you will gain experience with
 
 - Virtualization & Lab Design
 - Windows & Linux Administration
